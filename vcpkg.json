@@ -1,5 +1,5 @@
 {	
-	"name": "template-raylib-imgui-entt",
+	"name": "breakout",
 	"version-string": "0.0.1",
 	"license": "MIT",
 	"dependencies": [
